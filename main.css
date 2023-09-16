@@ -18,7 +18,7 @@ body, input, textarea {
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
+    background-color: #e40404;
     color: #ecf0f1;
 }
 
@@ -65,18 +65,18 @@ section {
 
 section h2 {
     margin-bottom: 16px;
-}
-
-section {
-    color: #182c61;
+    color: #e40404;
 }
 
 section p {
     margin-bottom: 8px;
+    color: black;
 }
 
 .store-front {
     margin-right: 32px;
+    height: 480px;
+    width: 640;
 }
 
 .social-links img {
@@ -94,6 +94,7 @@ section p {
 
 #contact .container {
     display: block;
+    color: #e40404;
 }
 
 .contact-methods {
@@ -120,22 +121,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #e40404;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314e9e;
+    background-color: #c05858;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #e40404;
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #e40404;
     color: #ecf0f1;
     padding: 16px 0;
 }
